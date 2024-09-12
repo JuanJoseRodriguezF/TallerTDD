@@ -1,0 +1,33 @@
+# Excluir la carpeta target generada por Maven
+target/
+
+# Archivos y carpetas generados por Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos y carpetas generados por IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Archivos y carpetas generados por NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+*.nb-gradle/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Otros archivos temporales
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
